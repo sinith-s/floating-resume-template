@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "identity": {
+    "firstName": "Alex",
+    "lastName": "Taylor",
+    "monogram": "AT",
+    "role": "Software Engineer",
+    "tagline": "SOFTWARE · SYSTEMS · CURIOSITY",
+    "description": "Fictional demonstration profile for Floating Resume."
+  },
+  "projects": [
+    {
+      "id": "reading-list",
+      "title": "Reading list application",
+      "short": "Reading list",
+      "company": "Personal project",
+      "period": "2024",
+      "kind": "Web application",
+      "summary": "A fictional demonstration project for organising books.",
+      "role": "Developer",
+      "contributions": [
+        "Built a reading list interface and JSON API."
+      ],
+      "stack": [
+        "Python",
+        "HTML"
+      ],
+      "outcomes": [
+        "Completed a working demonstration."
+      ]
+    }
+  ],
+  "featuredProjectIds": [
+    "reading-list"
+  ],
+  "skills": [
+    {
+      "id": "software",
+      "title": "Software development",
+      "short": "SOFTWARE",
+      "summary": "Building small web applications.",
+      "skills": [
+        "API development",
+        "Testing"
+      ],
+      "tools": [
+        "Python",
+        "HTML"
+      ],
+      "projects": [
+        "reading-list"
+      ]
+    }
+  ],
+  "technologies": [
+    {
+      "id": "languages",
+      "title": "Programming languages",
+      "short": "LANGUAGES",
+      "items": [
+        "Python",
+        "HTML"
+      ],
+      "logos": [
+        [
+          "Python",
+          "python"
+        ]
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "name": "Example Studio (fictional)",
+      "dates": "2023 – 2024"
+    }
+  ],
+  "certifications": [],
+  "stations": [
+    {
+      "code": "01 / PROJECTS",
+      "nav": "Projects",
+      "title": "Projects",
+      "subtitle": "Explore this part of my journey",
+      "body": "Select an item to learn more.",
+      "tags": [],
+      "list": []
+    },
+    {
+      "code": "02 / SKILLS",
+      "nav": "Skills",
+      "title": "Skills",
+      "subtitle": "Explore this part of my journey",
+      "body": "Select an item to learn more.",
+      "tags": [],
+      "list": []
+    },
+    {
+      "code": "03 / COMPANIES WORKED",
+      "nav": "Companies worked",
+      "title": "Companies worked",
+      "subtitle": "Explore this part of my journey",
+      "body": "Select an item to learn more.",
+      "tags": [],
+      "list": []
+    },
+    {
+      "code": "04 / TECHNOLOGIES USED",
+      "nav": "Technologies used",
+      "title": "Technologies used",
+      "subtitle": "Explore this part of my journey",
+      "body": "Select an item to learn more.",
+      "tags": [],
+      "list": []
+    },
+    {
+      "code": "05 / CERTIFICATIONS",
+      "nav": "Certifications",
+      "title": "Certifications",
+      "subtitle": "Explore this part of my journey",
+      "body": "Select an item to learn more.",
+      "tags": [],
+      "list": []
+    }
+  ],
+  "boardCopy": [
+    {
+      "title": "Projects",
+      "summary": "Explore my journey.",
+      "highlights": []
+    },
+    {
+      "title": "Skills",
+      "summary": "Explore my journey.",
+      "highlights": []
+    },
+    {
+      "title": "Companies worked",
+      "summary": "Explore my journey.",
+      "highlights": []
+    },
+    {
+      "title": "Technologies used",
+      "summary": "Explore my journey.",
+      "highlights": []
+    },
+    {
+      "title": "Certifications",
+      "summary": "Explore my journey.",
+      "highlights": []
+    }
+  ]
+}
